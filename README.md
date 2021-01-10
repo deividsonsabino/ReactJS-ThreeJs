@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img width="100" src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"/>
-  <img width="100" src="https://miro.medium.com/max/724/1*aDcnXab1QC_5KF8JUxDEYA.png"/>
+  <img width="300" src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"/>
+  <img width="300" src="https://miro.medium.com/max/724/1*aDcnXab1QC_5KF8JUxDEYA.png"/>
 </p>
   <img src="cubo.png"/>
 <hr/>
