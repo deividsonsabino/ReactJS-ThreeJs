@@ -1,6 +1,6 @@
-<h4 align="center">React + ThreeJS</h4>
+
 <p align="center">
-  <img src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"/>
+  <img width="100" src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"/>
   <img width="100" src="https://miro.medium.com/max/724/1*aDcnXab1QC_5KF8JUxDEYA.png"/>
 </p>
 <hr/>
